@@ -1,0 +1,5 @@
+.idea/
+.venv/
+learning_functions/data/
+**/__pycache__
+
